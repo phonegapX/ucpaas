@@ -1,3 +1,3 @@
 # ucpaas
-云之讯nodejs版本SDK
+云之讯nodejs版本SDK 
 最近用到云之讯平台的短信和语音验证码功能，因为他们还没有nodejs版本的SDK，所以我按照他们的PHP版本实现了一个nodejs版本的SDK供大家使用。
