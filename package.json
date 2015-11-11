@@ -1,5 +1,5 @@
 {
-  "name": "ucpaas",
+  "name": "ucpaas-sdk",
   "version": "1.0.1",
   "description": "ucpaas sdk",
   "main": "index.js",
